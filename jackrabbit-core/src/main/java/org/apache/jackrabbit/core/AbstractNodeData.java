@@ -25,6 +25,7 @@ import org.apache.jackrabbit.core.state.NodeState;
 
 /**
  * Data object representing a node.
+ * 
  */
 public abstract class AbstractNodeData extends ItemData {
 
